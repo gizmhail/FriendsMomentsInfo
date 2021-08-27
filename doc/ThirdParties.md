@@ -7,10 +7,8 @@
 
 ## Oculus SDK related code components
 
-* [Oculus SDK license](files/OculusSDK_LICENSE.txt)
 * [Oculus SDK third party softwares](files/OculusSDK_NOTICE.txt)
 * [Oculus SDK Sample framework license](files/SampleFramework_license.txt)
-* [Facebook 360 Audio Terms](files/Audio360_NOTICE.txt)
 * [Oculus SDk Audio 360 third party softwares](files/Audio360_ThirdPartyNotices.txt)
 
 ## Other components
