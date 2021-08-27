@@ -7,41 +7,13 @@
 
 ## Oculus SDK related code components
 
-### Oculus SDK
-* Copyright © Facebook Technologies, LLC and its affiliates. All rights reserved.
-* The use of this SDK is subject to the Oculus SDK License Agreement, available at https://developer.oculus.com/licenses/oculussdk/
-* https://developer.oculus.com/licenses/oculussdk/ 
-----------------------
-### SampleFramework
-* Licensed under BSD3 license
-* Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved.
-* https://developer.oculus.com/documentation/unity/unity-sample-framework/ 
-----------------------
-### Audio360
-* Licensed under Facebook 360 Audio Terms
-* https://facebook360.fb.com/downloads/rendering-sdk-v1-3-0/ (legal tab)
-----------------------
-### libsamplerate 
-* Copyright (c) 2012-2016, Erik de Castro Lopo <erikd@mega-nerd.com>
-* libsamplerate is licensed under the BSD open source license
-* http://www.mega-nerd.com/SRC/
-----------------------
-### Wavpack
-* Copyright (c) 1998 - 2016 David Bryant All rights reserved.
-* Licensed under BSD3 license
-* http://www.wavpack.com/ 
----------------------
-### SimpleJSON
-* Copyright (c) 2012-2017 Markus Göbel (Bunny83)
-* Licensed under MIT license.
-* https://github.com/Bunny83/SimpleJSON/blob/master/LICENSE
-----------------------
-### OpenVRApi
-* Copyright (c) 2015, Valve Corporation
-* Licensed under BSD 3 license.
-* https://github.com/ValveSoftware/openvr/blob/master/LICENSE
-* 
-## Other code components
+* [Oculus SDK license](files/OculusSDK_LICENSE.txt)
+* [Oculus SDK third party softwares](files/OculusSDK_NOTICE.txt)
+* [Oculus SDK Sample framework license](files/SampleFramework_license.txt)
+* [Facebook 360 Audio Terms](files/Audio360_NOTICE.txt)
+* [Oculus SDk Audio 360 third party softwares](files/Audio360_ThirdPartyNotices.txt)
+
+## Other components
 ### TextMesh Pro copyright © 2021 Unity Technologies ApS
 * Licensed under the Unity Companion License for Unity-dependent projects
 * http://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/license/LICENSE.html 
