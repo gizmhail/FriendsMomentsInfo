@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+title: Friends Moments : Legal information
 relative_links:
   enabled: true
   collections: true
