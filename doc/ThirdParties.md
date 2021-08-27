@@ -32,7 +32,7 @@
 ### GLTFUtility
 * Copyright (c) 2018 Thor Brigsted
 * GLTFUtility is distributed under the terms of MIT License
-* [https://github.com/Siccity/GLTFUtility/blob/master/LICENSE.md)(https://github.com/Siccity/GLTFUtility/blob/master/LICENSE.md)
+* [https://github.com/Siccity/GLTFUtility/blob/master/LICENSE.md](https://github.com/Siccity/GLTFUtility/blob/master/LICENSE.md)
 
 ### ReadyPlayerMe avatars
 * Predefined avatars are generated through ReadyPlayerMe ([https://readyplayer.me](https://readyplayer.me)), and are under Creative Commons 4.0 license
