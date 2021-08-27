@@ -6,4 +6,5 @@ relative_links:
   collections: true
 include:
   - doc/CGU.md
+  - doc/ThirdParties.md
   - README.md
