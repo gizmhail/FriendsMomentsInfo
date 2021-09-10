@@ -48,6 +48,7 @@ Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic,Jean-Marc Valin, Timothy B.
 
 Opus is licensed under “BSD 3-clause License”.
 
+[https://opus-codec.org/license/](https://opus-codec.org/license/)
 
 ## WebRTC
 
