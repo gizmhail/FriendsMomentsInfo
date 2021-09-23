@@ -5,4 +5,4 @@
 
 ----
 
-![Friends moments](friendsmoments.jpg)
+![Friends moments](friendsmoments.png)
