@@ -57,9 +57,9 @@ pour oculus
 </p>
  
 
-**INFORMATIONS LÉGALES**
+**<span style="text-decoration:underline;">INFORMATIONS LÉGALES</span>**
 
-**Informations éditeur et hébergeur**
+**Informations éditeur et hébergeur :**
 
 
 Orange SA
