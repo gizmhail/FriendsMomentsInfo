@@ -1,9 +1,10 @@
-<p style="text-align: center;">
+**<p style="text-align: center;">
   
-**LEGAL NOTICE Friends Moments**
+LEGAL NOTICE Friends Moments
 
-**for  oculus**
-</p>
+for  oculus
+  
+</p>**
  
 
 **<span style="text-decoration:underline;">LEGAL INFORMATION</span>**
@@ -49,14 +50,13 @@ Publishing Director: Stéphane Richard
 the data collected by the application is completely anonymized
 
 ----
-<p style="text-align: center;">
+**<p style="text-align: center;">
+  
+Mentions Légales  Friends Moments
 
-**Mentions Légales  Friends Moments**
+pour oculus
 
-**pour oculus**
-
-** **
-</p>
+</p>**
  
 
 **INFORMATIONS LÉGALES**
