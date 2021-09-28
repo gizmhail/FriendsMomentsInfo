@@ -8,11 +8,9 @@ for  oculus
  
 
 **<span style="text-decoration:underline;">LEGAL INFORMATION</span>**
-
  
 
 **Editor and hosting:**
-
  
 
 Orange SA
@@ -63,7 +61,6 @@ pour oculus
 
 **Informations éditeur et hébergeur**
 
-** **
 
 Orange SA
 
