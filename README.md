@@ -2,7 +2,7 @@
 
 ![Friends moments](friendsmoments.png)
 
-Friends Moments allows friends and family to meet together in a shared room, regardless of the distance, to discuss and spend time together through their avatars in a spacious house.
+Friends Moments allows friends and family to meet together, regardless of the distance, to discuss and spend time together through their avatars in a spacious house.
 
 With this application, you can share good times with loved ones with various activities:
 - Play chess, darts or dices
@@ -21,7 +21,6 @@ With this application, you can share good times with loved ones with various act
 [![Image Chess](img/FM4_thumbnail.png)](img/FM4.png)
 
 [![Image Dices](img/FM5_thumbnail.png)](img/FM5.png)
+[![Image House1](img/FM6_thumbnail.jpg)](img/FM6.jpg)
 
-[![Image House1](img/FM6_thumbnail.jpg)](img/FM6.png)
-
-[![Image House2](img/FM7_thumbnail.jpg)](img/FM7.png)
+[![Image House2](img/FM7_thumbnail.jpg)](img/FM7.jpg)
