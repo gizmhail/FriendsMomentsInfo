@@ -2,12 +2,12 @@
 
 ![Friends moments](friendsmoments.png)
 
-Share good times with loved ones, regardless of the distance, with Friends Moments.
+Friends Moments allows friends and family to meet together in a shared room, regardless of the distance, to discuss and spend time together through their avatars in a spacious house.
 
-Customize your avatar and meet your friends in a spacious house.
-
-You can then discuss all together and practice a fun activity.
-For example, you can watch videos or play different games (board, skill, action)
+With this application, you can share good times with loved ones with various activities:
+- Play chess, darts or dices
+- Guess words drawn in 3D
+- Watch video together
 
 ----
 
