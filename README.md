@@ -22,6 +22,6 @@ With this application, you can share good times with loved ones with various act
 
 [![Image Dices](img/FM5_thumbnail.png)](img/FM5.png)
 
-[![Image House1](img/FM6_thumbnail.jpg)](img/FM6.png)
+[![Image House1](img/FM6_thumbnail.jpg)](img/FM6.jpg)
 
-[![Image House2](img/FM7_thumbnail.jpg)](img/FM7.png)
+[![Image House2](img/FM7_thumbnail.jpg)](img/FM7.jpg)
