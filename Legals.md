@@ -3,7 +3,10 @@
 * [Third parties](doc/ThirdParties.md)
 
 ----
+
 Other applications: [https://innovationfactory.orange.com/](https://innovationfactory.orange.com/)
+
 ----
-contact us: contact@friendsmoments.com
+
+Contact us: [contact@friendsmoments.com](contact@friendsmoments.com)
 
