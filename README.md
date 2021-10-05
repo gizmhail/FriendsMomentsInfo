@@ -5,7 +5,7 @@
 Friends Moments allows friends and family to meet together, regardless of the distance, to discuss and spend time together through their avatars in a spacious house.
 
 With this application, you can share good times with loved ones with various activities:
-- Play chess, darts or dices
+- Play [ping-pong](https://www.youtube.com/watch?v=-jUVO5mt1SE), chess, darts or dices
 - Guess words drawn in 3D
 - Watch video together
 
@@ -18,6 +18,7 @@ Download on itch.io: [https://orange-innovation-factory.itch.io/friends-moments]
 * [Legal information](Legals.md)
 
 ----
+
 [![Image Draw A word - Drawer](img/FM1_thumbnail.png)](img/FM1.png)
 [![Image Draw A word - Guesser](img/FM2_thumbnail.png)](img/FM2.png)
 
