@@ -11,6 +11,10 @@ With this application, you can share good times with loved ones with various act
 
 ----
 
+Download on itch.io: [https://orange-innovation-factory.itch.io/friends-moments](https://orange-innovation-factory.itch.io/friends-moments)
+
+----
+
 * [Legal information](Legals.md)
 
 ----
