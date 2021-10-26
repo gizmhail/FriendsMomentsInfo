@@ -9,6 +9,12 @@ With this application, you can share good times with loved ones with various act
 - Guess words drawn in 3D
 - Watch video together
 
+
+
+_Powered by Photon_
+
+[![Photon](img/logo-photon.png)](https://www.photonengine.com/)
+
 ----
 
 Download on itch.io: [https://orange-innovation-factory.itch.io/friends-moments](https://orange-innovation-factory.itch.io/friends-moments)
