@@ -5,7 +5,7 @@
 Friends Moments allows friends and family to meet together, regardless of the distance, to discuss and spend time together through their avatars in a spacious house.
 
 With this application, you can share good times with loved ones with various activities:
-- Play [ping-pong](https://www.youtube.com/watch?v=IlstWSBDmEI), chess, darts or dices
+- Play [ping-pong](https://www.youtube.com/watch?v=IlstWSBDmEI), [tennis](https://www.youtube.com/watch?v=N3zQ_LlLdAU), chess, darts or dices
 - Guess words drawn in 3D
 - Watch video together
 
